@@ -94,3 +94,4 @@ Kick(proposeId, nodeToBeKicked) -> (isAccepted)
 * A set of \(f+1\) signatures is considered a valid commit certificate. Since all honest nodes produce the same final value, Byzantine nodes cannot obtain \(f+1\) signatures for a conflicting value.
 * By assumption, all honest nodes agree on the final value. Therefore, Byzantine nodes cannot obtain \(f+1\) signatures for a conflicting value, and two conflicting commits cannot exist.
 * All nodes exchange their signatures with one another, resulting in a message complexity of \(O(n^2)\).
+
