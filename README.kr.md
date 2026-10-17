@@ -15,7 +15,7 @@
 - 클라이언트와, 서버가 항상 1:1로 맺어지는 IP Hashing등의 Load Balancing 규칙은 이 방법에 적절치 않다.
 - Unknown은 비잔틴 여부와 관계가 없다.
 - 서명은 위조 불가 하다.
-- 거짓 실패(False Failure)이 발생 가능하며, 이에 대한  
+- 거짓 실패(False Failure)이 발생 가능하며, 이에 대한 정책은 클라이언트 책임이다.
 
 ## Phases
 ### Propose
