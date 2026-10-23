@@ -200,7 +200,7 @@ $$\Pr[\text{정직 제안자 선출}] \ge 1-\left(\frac{f}{2f+1}\right)^k$$
 
 $$
 \forall h,i\in H,\quad
-\operatorname{FinalClaim}_i(h)=x_h
+\mathrm{FinalClaim}_i(h)=x_h
 $$
 
 가 성립한다.
@@ -219,7 +219,7 @@ $$
 
 $$
 \forall h,i\in H,\quad
-\operatorname{FinalClaim}_i(h)=x_h
+\mathrm{FinalClaim}_i(h)=x_h
 $$
 
 따라서 명제가 성립한다. $\square$

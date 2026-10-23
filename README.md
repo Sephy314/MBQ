@@ -226,7 +226,7 @@ That is,
 
 \[
 \forall h,i\in H,\quad
-\operatorname{FinalClaim}_i(h)=x_h
+\mathrm{FinalClaim}_i(h)=x_h
 \]
 
 **Proof.**
@@ -243,7 +243,7 @@ Since all honest nodes possess the same signature evidence and apply the same ve
 
 \[
 \forall h,i\in H,\quad
-\operatorname{FinalClaim}_i(h)=x_h
+\mathrm{FinalClaim}_i(h)=x_h
 \]
 
 Therefore, the statement holds. \(\square\)
